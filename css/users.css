@@ -1,0 +1,43 @@
+.widget {
+    margin-bottom: 20px;
+}
+
+.con {
+    border-top: 1px dashed #aaa;
+    padding-top: 10px;
+}
+
+.profile {
+    padding: 5px;
+    background-color: #f9f9f9;
+    border: 1px dashed #ccc;
+}
+.profile img {
+    width: 100%;
+}
+
+
+.wrapper {
+    margin: 0 auto;
+    padding: 20px;
+    width: 100%;
+    max-width: 800px;
+    background-color: #fff;
+}
+
+.commbody {
+    padding-top: 10px;
+    vertical-align: text-top;
+}
+
+#tabl2 td {
+    padding-bottom: 0px;
+}
+
+.uinfo {
+    text-align: left;
+    color: rgb(140,140,140);
+    font-size: 110%;
+    line-height: 20px;
+}
+

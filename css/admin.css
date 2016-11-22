@@ -1,0 +1,18 @@
+#tabl1 td, th{
+    padding: 0px;
+    vertical-align: middle;
+    color: teal;
+}
+
+#tabl1 th{
+    color:rgb(100,100,100);
+}
+
+#tabl2 td {
+    padding-bottom: 0px;
+}
+
+.commbody {
+    padding-top: 10px;
+    vertical-align: text-top;
+}
